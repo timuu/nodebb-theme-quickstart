@@ -1,6 +1,9 @@
 {
   "name": "nodebb-theme-timuu",
-  "version": "0.2.4",
+  "version": "0.2.5",
+   "nbbpm": {
+    "compatibility": "^1.10.0"
+  },
   "description": "Timuu's NodeBB theme",
   "main": "theme.less",
   "keywords": [],
